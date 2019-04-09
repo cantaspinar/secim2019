@@ -1,22 +1,20 @@
 # ajans15
 
-> My neat Nuxt.js project
+> Atölye15 Staj Kampı Seçim 2019 Projesi
 
-## Build Setup
+> SVG Türkiye Haritası: https://github.com/dnomak/svg-turkiye-haritasi
+
+## Ekran Görüntüleri
+
+![Screenshot](renk.png)
+
+> Birinci ve ikinci parti arasındaki yüzdelik oy farkı belirtilen orandan fazla ise koyu renk, az ise açık renk olarak gösteren fark haritası:
+
+![Screenshot](fark.png)
+## Kurulum
 
 ``` bash
-# install dependencies
 $ npm install
-
-# serve with hot reload at localhost:3000
 $ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
